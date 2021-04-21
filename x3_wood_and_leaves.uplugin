@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"SemVersion": "1.0.2",
+	"FriendlyName": "x3_wood_and_leaves",
+	"Description": "Make Wood & Leaves is a mod (or maybe a cheat?!) for adding a Coal-Reverse-Process to make Wood and Leaves out of Coal.",
+	"Category": "Modding",
+	"CreatedBy": "x3008x",
+	"CreatedByURL": "https://ficsit.app/mod/BadWg9mn2qpbR9",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://ficsit.app/mod/BadWg9mn2qpbR9",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.0.0",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
